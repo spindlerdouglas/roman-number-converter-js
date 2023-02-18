@@ -1,0 +1,22 @@
+{
+    "name": "roman-number-converter",
+    "version": "1.0.0",
+    "description": "Roman number converter",
+    "scripts": {
+      "start": "node app.js",
+      "lint": "npx eslint",
+      "test": "mocha"
+    },
+    "devDependencies": {
+      "eslint": "^8.4.1",
+      "typescript": "^4.6.4",
+      "mocha": "^9.2.1",
+      "c8": "^7.11.3"
+    },
+    "type": "module",
+    "engines": {
+      "node": ">=16",
+      "npm": ">=8"
+    }
+  }
+  
